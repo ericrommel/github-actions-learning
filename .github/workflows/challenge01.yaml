@@ -12,7 +12,6 @@ jobs:
         steps:
           - run: date
     macos:
-        name: Third Job
         runs-on: macos-latest
         steps:
           - run: date
